@@ -5,9 +5,9 @@
 First install these 3 libraries:
 
 ```
-"github.com/gorilla/mux"
-"github.com/rs/cors"
-"github.com/gocolly/colly"
+github.com/gorilla/mux
+github.com/rs/cors
+github.com/gocolly/colly
 ```
 
 To run the api type: `go run api.go`
